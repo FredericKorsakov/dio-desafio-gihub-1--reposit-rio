@@ -1,2 +1,5 @@
-# dio-desafio-gihub-1--reposit-rio
-Desafio Projeto GitHub
+# Repositório de desafio GitHub/GIT/DIO
+Comandos Git Essenciais.
+
+## Links Úteis:
+[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
