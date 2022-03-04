@@ -1,13 +1,18 @@
 # Repositório de desafio GitHub/GIT/DIO
 ## Comandos Git Essenciais:
-### git config
-Um dos comandos git mais usados ​​é o git config que pode ser usado para definir valores de configuração específicos do usuário como e-mail, algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por exemplo, o seguinte comando pode ser usado para definir o email:
 
-git config --global user.email frederickorsakov@gmail.com
+ ### 1) git config
+Um dos comandos git mais usados ​​é o git config que pode ser usado para definir valores de configuração específicos do usuário como e-mail, algoritmo preferido para diff, nome de usuário e formato de arquivo etc.
 
 [![Captura-de-Tela-579.png](https://i.postimg.cc/tTcrKLzv/Captura-de-Tela-579.png)](https://postimg.cc/gXvqRtQ3)
 
-### git init
+Por exemplo, o seguinte comando pode ser usado para definir o email:
+
+[![Captura-de-Tela-580.png](https://i.postimg.cc/7ZvRYG2H/Captura-de-Tela-580.png)](https://postimg.cc/Yh3RdSRZ)
+
+git config --global user.email frederickorsakov@gmail.com
+
+### 2) git init
 Este comando é usado para criar um novo repositório GIT.
 
 [![Captura-de-Tela-575.png](https://i.postimg.cc/J7jyL2BF/Captura-de-Tela-575.png)](https://postimg.cc/Z0KYPjHP)
