@@ -20,6 +20,8 @@ ls -a vai mostrar todos os arquivos ocultos. Nesse caso será possivel ver o arq
 ls -al vai listar todos os arquivos e diretórios com informações detalhadas como permissões, tamanho, proprietário, etc.
   
 ## Links Úteis e Bibliografia: 
-<p>[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
-<p>[MarkDown - GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-<p>[Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
+[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+  
+[MarkDown - GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+  
+[Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
